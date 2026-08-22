@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-60: #1E1E1E;
+    --secondary-30: #FF5722;
+    --accent-10: #00E5FF;
+    --accent-gold: #FFD700;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #141414;
+    color: #F3F4F6;
+  }
+
+  h1, h2, h3, .font-heading {
+    font-family: 'Syne', 'Space Grotesk', sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  .font-graffiti {
+    font-family: 'Permanent Marker', cursive;
+  }
+
+  .font-tech {
+    font-family: 'Space Grotesk', monospace;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #141414;
+}
+::-webkit-scrollbar-thumb {
+  background: #333333;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FF5722;
+}
