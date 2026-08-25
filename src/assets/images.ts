@@ -1,4 +1,3 @@
-import fotoNueva from './images/20260821_021924.jpg';
 import hoodieBlueFlameCar from './images/hoodie_blue_flame_car_1786691294583.jpg';
 import hoodieTokyoNavyBack from './images/hoodie_tokyo_navy_back_1786691304293.jpg';
 import streetCartoonCrewArt from './images/street_cartoon_crew_art_1786691312897.jpg';
@@ -16,6 +15,119 @@ import fsgNeonCrossGym from './images/fsg_neon_cross_gym_1787036741306.jpg';
 import fsgGraffitiBearArt from './images/fsg_graffiti_bear_art_1787036752381.jpg';
 import fsgDenimComicPatch from './images/fsg_denim_comic_patch_1787036763221.jpg';
 import fsg19868GooglyEyes from './images/fsg_19868_googly_eyes_1787057046210.jpg';
+
+// Nuevas incorporaciones recientes para la app y catálogo FsGoD
+import img20260821021924 from './images/20260821_021924.jpg';
+import img20260821022311 from './images/20260821_022311.jpg';
+import img20260821022544 from './images/20260821_022544.jpg';
+import img20260821023553 from './images/20260821_023553.jpg';
+import img20260821023953 from './images/20260821_023953.jpg';
+import img20260821024337 from './images/20260821_024337.jpg';
+import img20260821025357 from './images/20260821_025357.jpg';
+import img20260821030008 from './images/20260821_030008.jpg';
+import img20260821031418 from './images/20260821_031418.jpg';
+import img20260822023704 from './images/20260822_023704.jpg';
+import img20260822023730 from './images/20260822_023730.jpg';
+import img20260822024133 from './images/20260822_024133.jpg';
+import img20260822024340 from './images/20260822_024340.jpg';
+import img20260822024901 from './images/20260822_024901.jpg';
+import img20260822024916 from './images/20260822_024916.jpg';
+import img20260822025302 from './images/20260822_025302.jpg';
+import img20260822025352 from './images/20260822_025352.jpg';
+import img20260822044255 from './images/20260822_044255.jpg';
+import img20260822044650 from './images/20260822_044650.jpg';
+import img20260822044914 from './images/20260822_044914.jpg';
+import img20260822045212 from './images/20260822_045212.jpg';
+import img20260822045235 from './images/20260822_045235.jpg';
+import img20260822045500 from './images/20260822_045500.jpg';
+import img20260822045829 from './images/20260822_045829.jpg';
+import img20260822045851 from './images/20260822_045851.jpg';
+import img20260822050121 from './images/20260822_050121.jpg';
+import img20260822050254 from './images/20260822_050254.jpg';
+import img20260822050614 from './images/20260822_050614.jpg';
+import img20260822050846 from './images/20260822_050846.jpg';
+import img20260822051206 from './images/20260822_051206.jpg';
+import img20260822051503 from './images/20260822_051503.jpg';
+import img20260822051951 from './images/20260822_051951.jpg';
+import img20260822052502 from './images/20260822_052502.jpg';
+import img20260822052529 from './images/20260822_052529.jpg';
+import img20260822052804 from './images/20260822_052804.jpg';
+import img20260822052937 from './images/20260822_052937.jpg';
+import img20260824111354 from './images/20260824_111354.jpg';
+import img20260824120544 from './images/20260824_120544.jpg';
+import img20260824120838 from './images/20260824_120838.jpg';
+import img20260824121223 from './images/20260824_121223.jpg';
+import img20260824121242 from './images/20260824_121242.jpg';
+import img20260824121423 from './images/20260824_121423.jpg';
+import img20260824121444 from './images/20260824_121444.jpg';
+import img20260824121923 from './images/20260824_121923.jpg';
+import img20260824121944 from './images/20260824_121944.jpg';
+import img20260824125809 from './images/20260824_125809.jpg';
+import img20260824130022 from './images/20260824_130022.jpg';
+import img20260824130158 from './images/20260824_130158.jpg';
+import img20260824130233 from './images/20260824_130233.jpg';
+import img20260824130707 from './images/20260824_130707.jpg';
+import img20260824131429 from './images/20260824_131429.jpg';
+import img20260824131446 from './images/20260824_131446.jpg';
+import img20260824131750 from './images/20260824_131750.jpg';
+import img20260824131837 from './images/20260824_131837.jpg';
+import img20260824132002 from './images/20260824_132002.jpg';
+import img20260824132017 from './images/20260824_132017.jpg';
+import img20260824132550 from './images/20260824_132550.jpg';
+import img20260824132713 from './images/20260824_132713.jpg';
+import img20260824132728 from './images/20260824_132728.jpg';
+import img20260824133028 from './images/20260824_133028.jpg';
+import img20260824133044 from './images/20260824_133044.jpg';
+import img20260824133208 from './images/20260824_133208.jpg';
+import img20260824133419 from './images/20260824_133419.jpg';
+import img20260824133528 from './images/20260824_133528.jpg';
+import genVyr4998Wap from './images/gen__vyr_4998_WAP81600L0TFWR.jpg';
+
+// Cell Images (0 al 43)
+import cellImg0 from './images/cellImage_19759692_0.jpg';
+import cellImg1 from './images/cellImage_19759692_1.jpg';
+import cellImg2 from './images/cellImage_19759692_2.jpg';
+import cellImg3 from './images/cellImage_19759692_3.jpg';
+import cellImg4 from './images/cellImage_19759692_4.jpg';
+import cellImg5 from './images/cellImage_19759692_5.jpg';
+import cellImg6 from './images/cellImage_19759692_6.jpg';
+import cellImg7 from './images/cellImage_19759692_7.jpg';
+import cellImg8 from './images/cellImage_19759692_8.jpg';
+import cellImg9 from './images/cellImage_19759692_9.jpg';
+import cellImg10 from './images/cellImage_19759692_10.jpg';
+import cellImg11 from './images/cellImage_19759692_11.jpg';
+import cellImg12 from './images/cellImage_19759692_12.jpg';
+import cellImg13 from './images/cellImage_19759692_13.jpg';
+import cellImg14 from './images/cellImage_19759692_14.jpg';
+import cellImg15 from './images/cellImage_19759692_15.jpg';
+import cellImg16 from './images/cellImage_19759692_16.jpg';
+import cellImg17 from './images/cellImage_19759692_17.jpg';
+import cellImg18 from './images/cellImage_19759692_18.jpg';
+import cellImg19 from './images/cellImage_19759692_19.jpg';
+import cellImg20 from './images/cellImage_19759692_20.jpg';
+import cellImg21 from './images/cellImage_19759692_21.jpg';
+import cellImg22 from './images/cellImage_19759692_22.jpg';
+import cellImg23 from './images/cellImage_19759692_23.jpg';
+import cellImg24 from './images/cellImage_19759692_24.jpg';
+import cellImg25 from './images/cellImage_19759692_25.jpg';
+import cellImg26 from './images/cellImage_19759692_26.jpg';
+import cellImg27 from './images/cellImage_19759692_27.jpg';
+import cellImg28 from './images/cellImage_19759692_28.jpg';
+import cellImg29 from './images/cellImage_19759692_29.jpg';
+import cellImg30 from './images/cellImage_19759692_30.jpg';
+import cellImg31 from './images/cellImage_19759692_31.jpg';
+import cellImg32 from './images/cellImage_19759692_32.jpg';
+import cellImg33 from './images/cellImage_19759692_33.jpg';
+import cellImg34 from './images/cellImage_19759692_34.jpg';
+import cellImg35 from './images/cellImage_19759692_35.jpg';
+import cellImg36 from './images/cellImage_19759692_36.jpg';
+import cellImg37 from './images/cellImage_19759692_37.jpg';
+import cellImg38 from './images/cellImage_19759692_38.jpg';
+import cellImg39 from './images/cellImage_19759692_39.jpg';
+import cellImg40 from './images/cellImage_19759692_40.jpg';
+import cellImg41 from './images/cellImage_19759692_41.jpg';
+import cellImg42 from './images/cellImage_19759692_42.jpg';
+import cellImg43 from './images/cellImage_19759692_43.jpg';
 
 export const ASSET_IMAGES = {
   hoodieBlueFlameCar,
@@ -35,7 +147,116 @@ export const ASSET_IMAGES = {
   fsgGraffitiBearArt,
   fsgDenimComicPatch,
   fsg19868GooglyEyes,
-  fotoNueva,
+  // Nuevas imágenes añadidas al registro
+  img20260821021924,
+  img20260821022311,
+  img20260821022544,
+  img20260821023553,
+  img20260821023953,
+  img20260821024337,
+  img20260821025357,
+  img20260821030008,
+  img20260821031418,
+  img20260822023704,
+  img20260822023730,
+  img20260822024133,
+  img20260822024340,
+  img20260822024901,
+  img20260822024916,
+  img20260822025302,
+  img20260822025352,
+  img20260822044255,
+  img20260822044650,
+  img20260822044914,
+  img20260822045212,
+  img20260822045235,
+  img20260822045500,
+  img20260822045829,
+  img20260822045851,
+  img20260822050121,
+  img20260822050254,
+  img20260822050614,
+  img20260822050846,
+  img20260822051206,
+  img20260822051503,
+  img20260822051951,
+  img20260822052502,
+  img20260822052529,
+  img20260822052804,
+  img20260822052937,
+  img20260824111354,
+  img20260824120544,
+  img20260824120838,
+  img20260824121223,
+  img20260824121242,
+  img20260824121423,
+  img20260824121444,
+  img20260824121923,
+  img20260824121944,
+  img20260824125809,
+  img20260824130022,
+  img20260824130158,
+  img20260824130233,
+  img20260824130707,
+  img20260824131429,
+  img20260824131446,
+  img20260824131750,
+  img20260824131837,
+  img20260824132002,
+  img20260824132017,
+  img20260824132550,
+  img20260824132713,
+  img20260824132728,
+  img20260824133028,
+  img20260824133044,
+  img20260824133208,
+  img20260824133419,
+  img20260824133528,
+  genVyr4998Wap,
+  cellImg0,
+  cellImg1,
+  cellImg2,
+  cellImg3,
+  cellImg4,
+  cellImg5,
+  cellImg6,
+  cellImg7,
+  cellImg8,
+  cellImg9,
+  cellImg10,
+  cellImg11,
+  cellImg12,
+  cellImg13,
+  cellImg14,
+  cellImg15,
+  cellImg16,
+  cellImg17,
+  cellImg18,
+  cellImg19,
+  cellImg20,
+  cellImg21,
+  cellImg22,
+  cellImg23,
+  cellImg24,
+  cellImg25,
+  cellImg26,
+  cellImg27,
+  cellImg28,
+  cellImg29,
+  cellImg30,
+  cellImg31,
+  cellImg32,
+  cellImg33,
+  cellImg34,
+  cellImg35,
+  cellImg36,
+  cellImg37,
+  cellImg38,
+  cellImg39,
+  cellImg40,
+  cellImg41,
+  cellImg42,
+  cellImg43,
 };
 
 export const ARTWORK_PRESETS = [
@@ -43,8 +264,8 @@ export const ARTWORK_PRESETS = [
     id: 'fsg_19868_googly_eyes',
     name: '19868 "Eyes On The Prize" Heavyweight Tee',
     category: 'FSGOD Iconic Limited Drops',
-    imageUrl: fotoNueva,
-    thumbnailUrl: fotoNueva,
+    imageUrl: fsg19868GooglyEyes,
+    thumbnailUrl: fsg19868GooglyEyes,
     description: 'Edición especial 19868 con ilustración icónica de ojos animados 90s hip-hop, bordado de alta densidad y etiquetas de seguridad en Safety Orange.',
   },
   {
