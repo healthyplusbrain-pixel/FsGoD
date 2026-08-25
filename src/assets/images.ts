@@ -35,6 +35,7 @@ export const ASSET_IMAGES = {
   fsgGraffitiBearArt,
   fsgDenimComicPatch,
   fsg19868GooglyEyes,
+  fotoNueva,
 };
 
 export const ARTWORK_PRESETS = [
