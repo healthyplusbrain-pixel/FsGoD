@@ -2,5 +2,5 @@
   "name": "FSGOD Sportswear & Custom Apparel",
   "description": "Aplicación oficial de FsGoD (Ref: FSG-FE-5831 / FE5-REFERRAL-WELCOME) con estética urbana hip-hop 90s, landing de referidos y registro de embajadores, ruleta slot-machine interactiva (12s), avatar Googly Eyes (ID 19868), motor cromático 60-30-10, pool dinámico de prendas 19868/3559/197xx con margen del 40% y pasarelas de pago fijadas (Bancolombia QR, Chase Zelle, Bitcoin Native SegWit).",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
