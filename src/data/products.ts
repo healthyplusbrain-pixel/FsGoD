@@ -107,7 +107,7 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     galleryImages: [
       ASSET_IMAGES.fsgNeonCrossGym,
       ASSET_IMAGES.fsg19701HeavyTee,
-      '20260821_021924.jpg',
+    ASSET_IMAGES._20260821021924,
     ],
     description: 'Diseño icónico con la Cruz Neón Cyan FsGoD sobre un fondo de gimnasio de concreto oscuro. Algodón peinado de 280 GSM con elasticidad bidireccional para entrenamientos intensos y estilo urbano imbatible.',
     fabricTech: ['Combed Cotton 280 GSM Heavy', 'Estampación HD Glow-in-the-Dark', 'Cuello Rib 3.5cm Anti-Deformación', 'Drop-Shoulder Boxy Silhouette'],
