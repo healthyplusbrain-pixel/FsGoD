@@ -1,3 +1,4 @@
+import fotoNueva from './images/20260821_021924.jpg';
 import hoodieBlueFlameCar from './images/hoodie_blue_flame_car_1786691294583.jpg';
 import hoodieTokyoNavyBack from './images/hoodie_tokyo_navy_back_1786691304293.jpg';
 import streetCartoonCrewArt from './images/street_cartoon_crew_art_1786691312897.jpg';
@@ -41,8 +42,8 @@ export const ARTWORK_PRESETS = [
     id: 'fsg_19868_googly_eyes',
     name: '19868 "Eyes On The Prize" Heavyweight Tee',
     category: 'FSGOD Iconic Limited Drops',
-    imageUrl: fsg19868GooglyEyes,
-    thumbnailUrl: fsg19868GooglyEyes,
+    imageUrl:'fotoNueva',
+    thumbnailUrl: 'fotoNueva',
     description: 'Edición especial 19868 con ilustración icónica de ojos animados 90s hip-hop, bordado de alta densidad y etiquetas de seguridad en Safety Orange.',
   },
   {
