@@ -1,3 +1,4 @@
+import image20260821 from '../assets/images/20260821_021924.jpg';
 import { ProductItem } from '../types';
 import { ASSET_IMAGES } from '../assets/images';
 
@@ -376,26 +377,25 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     cjWeightGrams: 890,
     cjEstimatedShippingDays: 5,
     cjPodPrintZones: ['front_chest', 'back_full', 'left_sleeve'],
-  },
- {
-  id: 'FSG-HDY-06',
-  sku: 'FSG-HDY-06',
-  name: 'Hoodie FE-5831 Cyber-Thermal Heavyweight Zip',
-  category: 'HOODIES OVERSIZED',
-  price: 151200,
-  cost: 108000,
-  marketPrice: 230000,
-  stock: 44,
-  warehouse: 'Bodega Barranquilla',
-  sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-  material: 'ThermoShield Tech Fleece 320 GSM',
-  description: 'Sudadera técnica con cremallera oculta termosellada para dispositivos y puños técnicos ergonómicos.',
-  badge: 'Bodega Barranquilla',
-  featuredImage: 'src/assets/images/20260821_021924.jpg',
-  galleryImages: [
-    'src/assets/images/20260821_021924.jpg',
-    'src/assets/images/hdy06_detalles.jpg'
-  ]
+{
+id: 'FSG-HDY-06',
+sku: 'FSG-HDY-06',
+name: 'Hoodie FE-5831 Cyber-Thermal Heavyweight Zip',
+category: 'HOODIES OVERSIZED',
+price: 151200,
+cost: 108000,
+marketPrice: 230000,
+stock: 44,
+warehouse: 'Bodega Barranquilla',
+sizes: ['S', 'M', 'L', 'XL', 'XXL'],
+material: 'ThermoShield Tech Fleece 320 GSM',
+description: 'Sudadera técnica con cremallera oculta termosellada para dispositivos y puños técnicos ergonómicos.',
+badge: 'Bodega Barranquilla',
+featuredImage: 'src/assets/images/20260821_021924.jpg',
+galleryImages: [
+'src/assets/images/20260821_021924.jpg',
+'src/assets/images/hdy06_detalles.jpg'
+]
 }
     description: 'El corte clásico 90s por encima de la rodilla con doble capa de malla micro-perforada de 240 GSM. Cintura elástica gruesa con cordón trenzado de puntas metálicas y dos bolsillos laterales con cremallera termosellada.',
     fabricTech: ['Dual-Layer Pro Mesh 240 GSM', 'Cordón Trenzado con Puntas Metálicas', 'Bolsillos con Zipper YKK Oculto', 'Corte Retro Above-The-Knee'],
