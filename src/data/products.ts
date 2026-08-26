@@ -377,19 +377,26 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     cjEstimatedShippingDays: 5,
     cjPodPrintZones: ['front_chest', 'back_full', 'left_sleeve'],
   },
-  {
-    id: 'prod_19704_mesh_shorts',
-    name: 'FsGoD "19704 Showtime" Dual-Layer Mesh Street Shorts',
-    subtitle: 'Shorts de baloncesto en malla pesada doble capa 240 GSM con bolsillos YKK (Ref: FSG-19704)',
-    category: 'shorts',
-    sport: 'basketball',
-    basePrice: 48.00,
-    featuredImage: ASSET_IMAGES.fsg19704MeshShorts,
+ {
+  id: 'FSG-HDY-06',
+  sku: 'FSG-HDY-06',
+  name: 'Hoodie FE-5831 Cyber-Thermal Heavyweight Zip',
+  category: 'HOODIES OVERSIZED',
+  price: 151200,
+  cost: 108000,
+  marketPrice: 230000,
+  stock: 44,
+  warehouse: 'Bodega Barranquilla',
+  sizes: ['S', 'M', 'L', 'XL', 'XXL'],
+  material: 'ThermoShield Tech Fleece 320 GSM',
+  description: 'Sudadera técnica con cremallera oculta termosellada para dispositivos y puños técnicos ergonómicos.',
+  badge: 'Bodega Barranquilla',
+  featuredImage: 'src/assets/images/20260821_021924.jpg',
   galleryImages: [
-  ASSET_IMAGES.fsg19704MeshShorts,
-  'src/assets/images/20260821_021924.jpg',
-  'src/assets/images/hdy06_detalles.jpg',
-],
+    'src/assets/images/20260821_021924.jpg',
+    'src/assets/images/hdy06_detalles.jpg'
+  ]
+}
     description: 'El corte clásico 90s por encima de la rodilla con doble capa de malla micro-perforada de 240 GSM. Cintura elástica gruesa con cordón trenzado de puntas metálicas y dos bolsillos laterales con cremallera termosellada.',
     fabricTech: ['Dual-Layer Pro Mesh 240 GSM', 'Cordón Trenzado con Puntas Metálicas', 'Bolsillos con Zipper YKK Oculto', 'Corte Retro Above-The-Knee'],
     availableColors: [
