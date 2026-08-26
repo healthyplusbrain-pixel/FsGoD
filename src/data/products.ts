@@ -385,11 +385,11 @@ export const INITIAL_PRODUCTS: ProductItem[] = [
     sport: 'basketball',
     basePrice: 48.00,
     featuredImage: ASSET_IMAGES.fsg19704MeshShorts,
-    galleryImages: [
-      ASSET_IMAGES.fsg19704MeshShorts,
-      'https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&auto=format&fit=crop&q=80',
-      'https://images.unsplash.com/photo-1538805060514-97d9cc17730c?w=800&auto=format&fit=crop&q=80',
-    ],
+  galleryImages: [
+  ASSET_IMAGES.fsg19704MeshShorts,
+  'src/assets/images/20260821_021924.jpg',
+  'src/assets/images/hdy06_detalles.jpg',
+],
     description: 'El corte clásico 90s por encima de la rodilla con doble capa de malla micro-perforada de 240 GSM. Cintura elástica gruesa con cordón trenzado de puntas metálicas y dos bolsillos laterales con cremallera termosellada.',
     fabricTech: ['Dual-Layer Pro Mesh 240 GSM', 'Cordón Trenzado con Puntas Metálicas', 'Bolsillos con Zipper YKK Oculto', 'Corte Retro Above-The-Knee'],
     availableColors: [
